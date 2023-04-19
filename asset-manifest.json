@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/seanevanlee/seanevanlee.github.io.git/static/css/main.db3d1917.css",
-    "main.js": "/seanevanlee/seanevanlee.github.io.git/static/js/main.a9c548e8.js",
-    "static/media/self.png": "/seanevanlee/seanevanlee.github.io.git/static/media/self.94c9e84135f7338cf101.png",
-    "static/media/mock3.png": "/seanevanlee/seanevanlee.github.io.git/static/media/mock3.f0494b07c8b3c92e535c.png",
-    "static/media/mock2.png": "/seanevanlee/seanevanlee.github.io.git/static/media/mock2.5638ff552f8068153839.png",
-    "static/media/mock1.png": "/seanevanlee/seanevanlee.github.io.git/static/media/mock1.0a23cdac42f5ef22454e.png",
-    "index.html": "/seanevanlee/seanevanlee.github.io.git/index.html",
-    "main.db3d1917.css.map": "/seanevanlee/seanevanlee.github.io.git/static/css/main.db3d1917.css.map",
-    "main.a9c548e8.js.map": "/seanevanlee/seanevanlee.github.io.git/static/js/main.a9c548e8.js.map"
+    "main.css": "/reactportfoliotemplate/static/css/main.db3d1917.css",
+    "main.js": "/reactportfoliotemplate/static/js/main.9b50c6d8.js",
+    "static/media/self.png": "/reactportfoliotemplate/static/media/self.94c9e84135f7338cf101.png",
+    "static/media/mock3.png": "/reactportfoliotemplate/static/media/mock3.f0494b07c8b3c92e535c.png",
+    "static/media/mock2.png": "/reactportfoliotemplate/static/media/mock2.5638ff552f8068153839.png",
+    "static/media/mock1.png": "/reactportfoliotemplate/static/media/mock1.0a23cdac42f5ef22454e.png",
+    "index.html": "/reactportfoliotemplate/index.html",
+    "main.db3d1917.css.map": "/reactportfoliotemplate/static/css/main.db3d1917.css.map",
+    "main.9b50c6d8.js.map": "/reactportfoliotemplate/static/js/main.9b50c6d8.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d1917.css",
-    "static/js/main.a9c548e8.js"
+    "static/js/main.9b50c6d8.js"
   ]
 }
